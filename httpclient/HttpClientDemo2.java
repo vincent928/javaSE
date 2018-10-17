@@ -8,7 +8,7 @@ import org.apache.http.util.EntityUtils;
 /**
  * Author : moon
  * Date  : 2018/10/17 15:45
- * Description : Class for post request
+ * Description : Class for httpclient request without entity
  */
 public class HttpClientDemo2 {
 
